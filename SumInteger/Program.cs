@@ -1,7 +1,10 @@
 ﻿public class Program
 {
     public static void Main(string[] args)
-{
-    Console.WriteLine("Day la du an ban dau");
+{   
+        int a = 5;
+        int b = 5;
+        int c = a + b;
+        Console.WriteLine(c);
 }
 }
